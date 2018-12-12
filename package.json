@@ -1,7 +1,7 @@
 {
-  "name": "react-native-svg-transformer",
-  "version": "0.12.0",
-  "description": "SVG transformer for react-native",
+  "name": "@coorpacademy/react-native-svg-transformer",
+  "version": "0.13.0",
+  "description": "SVG transformer for react-native forked from kristerkari",
   "main": "index.js",
   "repository": "https://github.com/kristerkari/react-native-svg-transformer",
   "scripts": {
